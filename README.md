@@ -10,20 +10,18 @@ Hi there 👋 I'm Fernando 👨‍💻
 
 
 
-<p align='center'>
-  
+<p align='center'>  
   <a href="https://www.linkedin.com/in/fernando-ferreira-filho/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-
-  
 </p>
 
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Fernando-Ferreira-Filho&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Ferreira-Filho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Ferreira-Filho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
