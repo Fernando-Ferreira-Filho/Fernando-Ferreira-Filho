@@ -1,13 +1,23 @@
-<h1 align="center">Hi 👋, I'm Fernando Ferreira Filho</h1>
+
+
+
+<h1 align='center'>
+  Hi 👋, I'm Fernando Ferreira Filho
+</h1>
+
 <h3 align="center">A asp .net, chatbot and RPA developer from Brazil.</h3>
+
+<ul style="list-style: none;">
+  <li>- 🌱 I’m currently learning **Asp .net core**</li>
+  <li>- 📫 How to reach me **fernandoferreirrafilho@gmail.com**</li>
+</ul>
 
 - 🌱 I’m currently learning **Asp .net core**
 
 - 📫 How to reach me **fernandoferreirrafilho@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
+
+ 
 <p align='center'>
   <a href="https://www.linkedin.com/in/fernando-ferreira-filho/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
