@@ -1,4 +1,8 @@
-
+<style>
+  ul {
+  list-style: none;
+}
+</style>
 
 
 <h1 align='center'>
@@ -7,7 +11,7 @@
 
 <h3 align="center">A asp .net, chatbot and RPA developer from Brazil.</h3>
 
-<ul style="list-style: none;">
+<ul>
   <li> - 🌱 I’m currently learning **Asp .net core**</li>
   <li> - 📫 How to reach me **fernandoferreirrafilho@gmail.com**</li>
 </ul>
