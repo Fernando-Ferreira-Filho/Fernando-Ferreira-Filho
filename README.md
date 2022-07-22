@@ -17,13 +17,15 @@ Hi there 👋 I'm Fernando 👨‍💻
 </p>
 
 
-<a align='center'>
+<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Fernando-Ferreira-Filho&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</a>
+</p>
 
 <p align='center'>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Ferreira-Filho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="#"><img src="[https://github-readme-stats.vercel.app/api?username=Fernando-Ferreira-Filho&show_icons=true&count_private=true&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Ferreira-Filho&layout=compact)" width="350"></a>
 </p>
+
+
 
 
 
