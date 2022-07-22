@@ -8,13 +8,9 @@
 <h3 align="center">A asp .net, chatbot and RPA developer from Brazil.</h3>
 
 <ul style="list-style: none;">
-  <li>- 🌱 I’m currently learning **Asp .net core**</li>
-  <li>- 📫 How to reach me **fernandoferreirrafilho@gmail.com**</li>
+  <li> - 🌱 I’m currently learning **Asp .net core**</li>
+  <li> - 📫 How to reach me **fernandoferreirrafilho@gmail.com**</li>
 </ul>
-
-- 🌱 I’m currently learning **Asp .net core**
-
-- 📫 How to reach me **fernandoferreirrafilho@gmail.com**
 
 
  
