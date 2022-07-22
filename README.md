@@ -1,21 +1,13 @@
-<style>
-  ul {
-  list-style: none;
-}
-</style>
-
-
 <h1 align='center'>
   Hi 👋, I'm Fernando Ferreira Filho
 </h1>
 
 <h3 align="center">A asp .net, chatbot and RPA developer from Brazil.</h3>
 
-<ul>
-  <li> - 🌱 I’m currently learning **Asp .net core**</li>
-  <li> - 📫 How to reach me **fernandoferreirrafilho@gmail.com**</li>
-</ul>
-
+<p>
+  - 🌱 I’m currently learning **Asp .net core**
+  - 📫 How to reach me **fernandoferreirrafilho@gmail.com**
+</p>
 
  
 <p align='center'>
