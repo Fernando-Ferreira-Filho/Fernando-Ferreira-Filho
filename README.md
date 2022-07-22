@@ -20,12 +20,11 @@ Hi there 👋 I'm Fernando 👨‍💻
 </p>
 
 
-  <a style="margin-left: 0,margin-rigth: 0, " href="#"><img src="https://github-readme-stats.vercel.app/api?username=Fernando-Ferreira-Filho&show_icons=true&count_private=true&theme=dark" width="350"></a>
-
-
 <p align='center'>
- <a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Ferreira-Filho&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Fernando-Ferreira-Filho&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+  <a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Ferreira-Filho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
+
 
 
 
