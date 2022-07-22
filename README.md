@@ -17,9 +17,7 @@ Hi there 👋 I'm Fernando 👨‍💻
 </p>
 
 
-<p align='center'>
-  <a href="#">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align='center'>
   <a href="#"><img src="[https://github-readme-stats.vercel.app/api?username=Fernando-Ferreira-Filho&show_icons=true&count_private=true&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Ferreira-Filho&layout=compact)"></a>
