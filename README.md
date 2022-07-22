@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
-  ### Hi there 👋 I'm Fernando 👨‍💻
+Hi there 👋 I'm Fernando 👨‍💻
 </h1>
 
 <p align='center'>
@@ -21,8 +21,9 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Fernando-Ferreira-Filho&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  
-  <a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Ferreira-Filho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
+</p>
+<p align='center'>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Ferreira-Filho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
