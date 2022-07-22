@@ -17,7 +17,7 @@
 <p align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernando-ferreira-filho&show_icons=true&locale=en&layout=compact" alt="fernando-ferreira-filho" /></p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fernando-ferreira-filho&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
