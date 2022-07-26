@@ -1,6 +1,10 @@
 <h1 align='center'>
-  Hi 👋, I'm Fernando Ferreira
+  Oi 👋, sou Fernando 😁
 </h1>
+
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorchade&layout=compact&langs_count=7&theme=dark" align="right" />
+</div>
 
 <h3 align="center">A asp .net, chatbot and RPA developer from Brazil.</h3>
 
