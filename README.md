@@ -11,7 +11,7 @@
    <br>
   Em graduação de sistemas de informação pela UEG
    <br>
-  Estou estudando c# com o intuito de me tornar um dev backend, para conferir meu projeto de TC feito ASP .net é so clicar aqui -> <a href="github.com/Fernando-Ferreira-Filho/presmed">PresMed</a>
+  Estou estudando c# com o intuito de me tornar um dev backend, para conferir meu projeto de TC feito ASP .net é so clicar aqui -> <a href="https://github.com/Fernando-Ferreira-Filho/presmed">PresMed</a>
   <br><br><br>
     <a href = "mailto:fernandoferreirrafilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/igorchade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
