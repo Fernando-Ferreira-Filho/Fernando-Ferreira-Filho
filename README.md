@@ -4,7 +4,7 @@
 
 <hr>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernando-ferreira-filho&show_icons=true&locale=en&layout=compact&langs_count=7&theme=dark" align="right" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fferreirafilho&show_icons=true&locale=en&layout=compact&langs_count=7&theme=dark" align="right" />
 
 <div>
   Atualmente trabalho como assistente de TI, com o desenvolvimento de chatbots com a plataforma Take Blip.
@@ -14,7 +14,7 @@
   Estou estudando c# com o intuito de me tornar um dev backend, para conferir meu projeto de TC feito ASP .net é so clicar aqui -> <a href="https://github.com/Fernando-Ferreira-Filho/presmed">PresMed</a>
   <br><br><br>
     <a href = "mailto:fernandoferreirrafilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/igorchade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/fernando-ferreira-filho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
 <br>
@@ -31,7 +31,7 @@
 
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fernando-ferreira-filho&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fferreirafilho&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
