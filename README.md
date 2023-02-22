@@ -7,7 +7,7 @@
 Atualmente trabalho como dev backend Java Trainee, entusiasta de tecnologia e apaixonado por inventar novas coisas. Espero que consiga ajudar alguem com minha tecnologia.
   <br />
   <br />
-  Graduando de sistemas de informação pela UEG
+  Graduado de sistemas de informação pela UEG
   <br>
   <br>
   <a href="mailto:fernandoferreirrafilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
