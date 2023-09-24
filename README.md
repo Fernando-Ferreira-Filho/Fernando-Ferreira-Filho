@@ -4,7 +4,7 @@
 
 <hr>
 <div>
-Atualmente trabalho como dev backend Java Trainee, entusiasta de tecnologia e apaixonado por inventar novas coisas. Espero que consiga ajudar alguem com minha tecnologia.
+Atualmente trabalho como dev backend Java, entusiasta de tecnologia e apaixonado por inventar novas coisas. Espero que consiga ajudar alguem com minha tecnologia.
   <br />
   <br />
   Graduado de sistemas de informação pela UEG
